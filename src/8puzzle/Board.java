@@ -1,4 +1,4 @@
-package LinkedListAPI;
+package 8puzzle;
 
 import edu.princeton.cs.algs4.In;
 import java.util.ArrayList;
